@@ -77,6 +77,10 @@ mark {
     flex-direction: column;
 }
 
+.fotoBox {
+    text-align: center;
+}
+
 .back {
     width: 70vw;
     height: 100vh;
