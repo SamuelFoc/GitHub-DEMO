@@ -155,7 +155,9 @@
             <li>
                 <strong><h4>How to merge feature_branch to master_branch ?</h4></strong>
                 <div class="insider">
+                    <p>As first, you have to consider, if you just added some feature or you eddited something. If you added something and in that time someone editted the main branch you wanted to merge to, you should first fetch all changes from main branch to your actual branch to avoid merge conflicts.</p>
                     <p><strong>Command: </strong><i class="colored">git </i>checkout master_branch</p>
+                    <p><strong>Command: </strong><i class="colored">git </i>fetch</p>
                     <p><strong>Command: </strong><i class="colored">git </i>merge feature_branch</p>
                     <q>You should be in master_branch when you merging another branch to it</q>
                 </div>
