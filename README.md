@@ -6,4 +6,4 @@ Some GitHub demo
 Demo is going on..
 
 ## New branch
-This text shoul be visible just in new branch
+This is new feature branch
