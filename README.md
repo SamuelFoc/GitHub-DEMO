@@ -110,6 +110,9 @@ mark {
 <div class="container" style="color: black">
 <ol>
     <h2>The most used commands</h2>
+
+![purple-divider](https://user-images.githubusercontent.com/7065401/52071927-c1cd7100-2562-11e9-908a-dde91ba14e59.png)
+
 <li>
     <strong><h4>What is my actual branch ?</h4></strong>
     <div class="insider">
@@ -175,6 +178,9 @@ mark {
 </li>
 
 <h2>Basics</h2>
+
+![purple-divider](https://user-images.githubusercontent.com/7065401/52071927-c1cd7100-2562-11e9-908a-dde91ba14e59.png)
+
 <!-- 1 -->
 <li>
     <strong><h4>Adding the origin of REPO</h4></strong>
@@ -258,6 +264,9 @@ mark {
 </li>
 
 <h2>Branches</h2>
+
+![purple-divider](https://user-images.githubusercontent.com/7065401/52071927-c1cd7100-2562-11e9-908a-dde91ba14e59.png)
+
 <!-- 10 -->
 <li>
     <strong><h4>What is the actuall branch am working on ?</h4></strong>
@@ -324,6 +333,9 @@ mark {
 </li>
 
 <h2>Undoing changes</h2>
+
+![purple-divider](https://user-images.githubusercontent.com/7065401/52071927-c1cd7100-2562-11e9-908a-dde91ba14e59.png)
+
 <!-- 17 -->
 <li>
     <strong><h4>How to unstage last change ?</h4></strong>
@@ -361,6 +373,9 @@ mark {
 </li>
 
 <h2>Forking repositories</h2>
+
+![purple-divider](https://user-images.githubusercontent.com/7065401/52071927-c1cd7100-2562-11e9-908a-dde91ba14e59.png)
+
 <!-- 21 -->
 <li>
     <strong><h4>How to copy repository to my repositories ?</h4></strong>
@@ -370,6 +385,9 @@ mark {
 </li>
 
 <h2>Good practices</h2>
+
+![purple-divider](https://user-images.githubusercontent.com/7065401/52071927-c1cd7100-2562-11e9-908a-dde91ba14e59.png)
+
 <!-- 1 -->
 <li>
     <strong><h4>Commits</h4></strong>
