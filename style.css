@@ -37,6 +37,7 @@ ol {
 
 li {
     margin-bottom: 2vh;
+    color: black;
 }
 
 q {
@@ -75,6 +76,7 @@ mark {
     box-shadow: 0px 5px 10px rgba(0, 0, 0, 0.164);
     display: flex;
     flex-direction: column;
+    color: black;
 }
 
 .fotoBox {
@@ -93,83 +95,3 @@ mark {
     bottom: 0;
     z-index: -1;
 }
-
-.circle {
-    height: 50vh;
-    width: 50vh;
-    position: fixed;
-    top: 5vh;
-    left: 0vh;
-
-    border-radius: 50%;
-    background-color: rgba(128, 0, 128, 0.5);
-    filter: blur(10px);
-    z-index: -2;
-
-    animation-name: bubles;
-    animation-duration: 50s;
-    animation-iteration-count: infinite;
-}
-
-.circle2 {
-    height: 50vh;
-    width: 50vh;
-    position: fixed;
-    top: 5vh;
-    left: 0vh;
-
-    border-radius: 50%;
-    background-color: rgba(241, 9, 59, 0.555);
-    filter: blur(10px);
-    z-index: -2;
-
-    animation-name: bubles2;
-    animation-duration: 50s;
-    animation-iteration-count: infinite;
-}
-
-@keyframes bubles {
-    0%   {
-        top: 0;
-        left: 0;
-    }
-    25%  {
-        top: 25vh;
-        left: 15vw;
-    }
-    50%  {
-        top: 50vh;
-        left: 60vw;
-    }
-    75% {
-        top: 20vh;
-        left: 50vw;
-    }
-    100% {
-        top: 0vh;
-        left: 0vw;
-    }
-  }
-
-  @keyframes bubles2 {
-    0%   {
-        top: 50vh;
-        left: 50vw;
-    }
-    25%  {
-        top: 15vh;
-        left: 45vw;
-    }
-    50%  {
-        top: 20vh;
-        left: 30vw;
-    }
-    75% {
-        top: 20vh;
-        left: 10vw;
-    }
-    100% {
-        top: 50vh;
-        left: 50vw;
-    }
-  }
