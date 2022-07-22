@@ -1,5 +1,4 @@
 <link rel="stylesheet" href="./style.css">
-<title>GitHub - Commands</title>
 
 <body>
 <h1><a class="title" href="https://www.github.com">GitHub</a> commands</h1>
