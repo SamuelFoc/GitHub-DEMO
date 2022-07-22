@@ -1,0 +1,97 @@
+* {
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+body {
+    background: rgb(255,255,255);
+    background: linear-gradient(177deg, rgba(255,255,255,1) 0%, rgba(146,198,255,1) 100%);
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+h1 {
+    text-align: center;
+    padding: 20px 80px;
+    border: 2px solid rgb(238, 232, 232);
+    border-radius: 5px;
+}
+
+h2 {
+    margin-top: 5vh;
+}
+
+p {
+    margin-left: 20px;
+}
+
+i {
+    color: magenta;
+}
+
+ol {
+    width: 80%;
+    display: grid;
+    grid-template-columns: auto;
+}
+
+li {
+    margin-bottom: 2vh;
+    color: black;
+}
+
+q {
+    font-size: small;
+    padding-left: 5%;
+    margin: 5px;
+}
+
+mark {
+    background-color: rgba(255, 0, 255, 0.219);
+    padding: 2px;
+    border-radius: 5px;
+}
+
+.title {
+    text-decoration: none;
+    font-weight: bolder;
+}
+
+.container {
+    margin: 0;
+    width: 80%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+    padding: 0;
+    border-radius: 30px 2px;
+}
+
+.insider {
+    background-color: rgba(180, 180, 180, 0.74);
+    border: 3px solid rgb(131, 130, 130);
+    padding: 5px;
+    border-radius: 5px;
+    box-shadow: 0px 5px 10px rgba(0, 0, 0, 0.164);
+    display: flex;
+    flex-direction: column;
+    color: black;
+}
+
+.fotoBox {
+    text-align: center;
+}
+
+.back {
+    width: 70vw;
+    height: 100vh;
+
+    border-radius: 30px 2px;
+    background-color: rgba(255, 255, 255, 0.856);
+    filter: blur(2px);
+
+    position: fixed;
+    bottom: 0;
+    z-index: -1;
+}
