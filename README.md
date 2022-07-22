@@ -1,5 +1,8 @@
 <link rel="stylesheet" href="./style.css">
 
+
+Demo how to use basic GitHub commands..
+
 <body>
 <h1><a class="title" href="https://www.github.com">GitHub</a> commands</h1>
 
@@ -319,3 +322,4 @@
 </div>
 
 </body>
+
